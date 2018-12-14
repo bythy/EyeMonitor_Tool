@@ -1,0 +1,1 @@
+build -p  %cd%\%1  -a X64 -t VS2008x86 -b DEBUG

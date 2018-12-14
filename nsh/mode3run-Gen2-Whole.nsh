@@ -1,0 +1,16 @@
+ShellTestKit.efi -mode3b 0xFEB14000 2 0 100 5 fast > Whole_Mode3_Gen2_0
+ShellTestKit.efi -mode3b 0xFEB14000 2 1 100 5 fast > Whole_Mode3_Gen2_1
+ShellTestKit.efi -mode3b 0xFEB14000 2 2 100 5 fast > Whole_Mode3_Gen2_2
+ShellTestKit.efi -mode3b 0xFEB14000 2 3 100 5 fast > Whole_Mode3_Gen2_3
+ShellTestKit.efi -mode3b 0xFEB14000 2 4 100 5 fast > Whole_Mode3_Gen2_4
+ShellTestKit.efi -mode3b 0xFEB14000 2 5 100 5 fast > Whole_Mode3_Gen2_5
+ShellTestKit.efi -mode3b 0xFEB14000 2 6 100 5 fast > Whole_Mode3_Gen2_6
+ShellTestKit.efi -mode3b 0xFEB14000 2 7 100 5 fast > Whole_Mode3_Gen2_7
+ShellTestKit.efi -mode3b 0xFEB14000 2 8 100 5 fast > Whole_Mode3_Gen2_8
+ShellTestKit.efi -mode3b 0xFEB14000 2 9 100 5 fast > Whole_Mode3_Gen2_9
+ShellTestKit.efi -mode3b 0xFEB14000 2 10 100 5 fast > Whole_Mode3_Gen2_10
+ShellTestKit.efi -mode3b 0xFEB14000 2 11 100 5 fast > Whole_Mode3_Gen2_11
+ShellTestKit.efi -mode3b 0xFEB14000 2 12 100 5 fast > Whole_Mode3_Gen2_12
+ShellTestKit.efi -mode3b 0xFEB14000 2 13 100 5 fast > Whole_Mode3_Gen2_13
+ShellTestKit.efi -mode3b 0xFEB14000 2 14 100 5 fast > Whole_Mode3_Gen2_14
+ShellTestKit.efi -mode3b 0xFEB14000 2 15 100 5 fast > Whole_Mode3_Gen2_15
